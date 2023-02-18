@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DNgTSMyFzJP09iFNGHCXQKJoHzgiHzamGs8fTQj5CxnOREXWbhCyqbazf5pzPlFUAugyNRKXDvAHbGRUehmdIA==",
+  "dgSpecHash": "/a5yOa/Pd27KvzCs441QlRzv4ZjqMOHhDQa/fhpExIaGxvGdCemCm4HnQ0xQlXIEhBy4L2wHfG3cXPt7s3vb0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adem Cansız\\source\\repos\\WebApplication1\\WebApplication1\\BooksStore.csproj",
+  "projectFilePath": "C:\\Users\\Adem Cansız\\Documents\\GitHub\\dotnet-webapi-endpoint\\WebApplication1\\WebApplication1\\BooksStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adem Cansız\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
     "C:\\Users\\Adem Cansız\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
