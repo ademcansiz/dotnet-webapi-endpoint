@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using BooksStore.DBOperations;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApplication1.Controllers
@@ -7,6 +8,13 @@ namespace WebApplication1.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
+        /*     private readonly BookStoreDBContext _context;
+
+             public BookController(BookStoreDBContext context)
+             {
+                 _context
+             }*/
+
         private static List<Book> BookList = new List<Book>() {
             new Book
             {

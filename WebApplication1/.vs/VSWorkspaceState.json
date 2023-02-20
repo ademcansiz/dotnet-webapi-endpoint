@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\WebApplication1",
     "\\WebApplication1\\bin"
   ],
-  "SelectedNode": "\\BooksStore.sln",
+  "SelectedNode": "\\WebApplication1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
